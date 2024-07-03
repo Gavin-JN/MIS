@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/Word/ph1.png</file>
+        <file>D:/Word/ph1(1)(1).png</file>
+        <file>D:/Qt project/IM/ph1(1)(1).png</file>
+        <file>D:/Word/the-background-301145_1280.png</file>
+        <file>D:/Word/return.png</file>
+    </qresource>
+</RCC>
